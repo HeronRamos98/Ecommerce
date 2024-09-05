@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to top, rgba(126, 121, 121, 0.877), rgba(255, 252, 252, 0.904));
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: auto;
+    margin: 0px;
+
+}
+
+h1 {
+    font-family: "Nerko One", cursive;
+    text-align: center;
+    font-size: 50px;
+    max-width: 100%;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+}
+
+.image-masculino {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    background-image: url(../img/M_BC_LG_OME02_July24_DI3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.image-feminino {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    background-image: url(../img/W_BC_LG_Babylone2_July24_DI3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+#masculino {
+    position: relative;
+    top: 50%;
+    text-align: center;
+}
+
+#feminino {
+    position: relative;
+    top: 50%;
+    text-align: center;
+}
