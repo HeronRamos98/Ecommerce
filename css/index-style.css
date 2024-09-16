@@ -69,3 +69,8 @@ h1 {
     top: 50%;
     text-align: center;
 }
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
