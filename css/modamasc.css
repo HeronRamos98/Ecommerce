@@ -5,5 +5,12 @@
   }
   body {
     background-image: linear-gradient(to top, rgb(201, 192, 192), rgb(245, 245, 247));
-    
+  }
+
+  h1{
+    font-family: "Nerko One", cursive;
+    text-align: center;
+    font-size: 50px;
+    max-width: 100%;
+    margin: auto;
   }

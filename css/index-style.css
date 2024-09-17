@@ -74,3 +74,22 @@ a {
     color: #fff;
     text-decoration: none;
 }
+
+li a{
+    font-family: "Playpen Sans",cursive ;
+    color: black;
+    vertical-align: top;
+    margin: 0 5px;
+    
+    
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    list-style-type: none;
+    margin-left: -35px;
+    margin-top: -5px;
+    
+}
