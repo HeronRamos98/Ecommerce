@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "categoria": "Camiseta",
+    "img-capa": "https://cdn-images.farfetch-contents.com/22/37/18/94/22371894_52341865_600.jpg",
+    "marca": "Amir Slama",
+    "nome-produto": "Camisa semitranslúcida com renda bordada",
+    "valor": "2.120"
+  },
+  {
+    "id": "2",
+    "categoria": "Acessórios",
+    "img-capa": "https://cdn-images.farfetch-contents.com/23/98/78/86/23987886_54213191_1000.jpg",
+    "marca": "Diesel",
+    "nome-produto": "Cinto de couro com fivela Oval D",
+    "valor": "2.048"
+  },
+  {
+    "id": "3",
+    "categoria": "Acessórios",
+    "img-capa": "https://cdn-images.farfetch-contents.com/23/07/99/53/23079953_53223299_480.jpg",
+    "marca": "Boss",
+    "nome-produto": "Carteira de couro listrada",
+    "valor": "1.060"
+  },
+  {
+    "id": "4",
+    "categoria": "Jaqueta",
+    "img-capa": "https://cdn-images.farfetch-contents.com/24/50/56/18/24505618_54509366_480.jpg",
+    "marca": "Prada",
+    "nome-produto": "Jaqueta bomber com detalhe de patch",
+    "valor": "21.500"
+  },
+  {
+    "id": "5",
+    "categoria": "Jaqueta",
+    "img-capa": "https://cdn-images.farfetch-contents.com/20/90/37/77/20903777_50929134_480.jpg",
+    "marca": "Moncler",
+    "nome-produto": "Jaqueta Maya metalassê",
+    "valor": "10.525"
+  },
+  {
+    "id": "6",
+    "categoria": "Acessórios",
+    "img-capa": "https://cdn-images.farfetch-contents.com/24/30/32/08/24303208_54365907_480.jpg",
+    "marca": "Versace",
+    "nome-produto": "Chaveiro com logo gravado",
+    "valor": "2.718"
+  }
+
+]
+
+

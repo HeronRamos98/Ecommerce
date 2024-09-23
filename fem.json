@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "categoria": "Bolsa",
+    "img-capa": "https://cdn-images.farfetch-contents.com/19/66/19/74/19661974_43935003_480.jpg",
+    "marca": "Prada",
+    "nome-produto": "Bolsa de ombro Re-Edition 2005 em couro",
+    "valor": "15.000"
+  },
+  {
+    "id": "2",
+    "categoria": "Bolsa",
+    "img-capa": "https://cdn-images.farfetch-contents.com/23/79/32/74/23793274_55246578_1000.jpg",
+    "marca": "Dolce & Gabbana",
+    "nome-produto": "Bolsa transversal Jewel pequena",
+    "valor": "32.500"
+  },
+  {
+    "id": "3",
+    "categoria": "Vestido",
+    "img-capa": "https://cdn-images.farfetch-contents.com/24/51/63/43/24516343_54598385_1000.jpg",
+    "marca": "Gucci",
+    "nome-produto": "Carteira GG Marchmont com corrente",
+    "valor": "11.727"
+  },
+  {
+    "id": "4",
+    "categoria": "Acessórios",
+    "img-capa": "https://cdn-images.farfetch-contents.com/13/51/04/70/13510470_54375191_1000.jpg",
+    "marca": "Saint Laurent",
+    "nome-produto": "Cinto Cassandre efeito pele de crocodilo",
+    "valor": "5.812"
+  },
+  {
+    "id": "5",
+    "categoria": "Sapato",
+    "img-capa": "https://cdn-images.farfetch-contents.com/21/99/10/52/21991052_51785289_1000.jpg",
+    "marca": "Saint Laurent",
+    "nome-produto": "Sandália Opyum efeito pele de crocodilo",
+    "valor": "15.170"
+  },
+  {
+    "id": "6",
+    "categoria": "Sapato",
+    "img-capa": "https://cdn-images.farfetch-contents.com/13/84/29/61/13842961_55004533_480.jpg",
+    "marca": "Balenciaga",
+    "nome-produto": "Tênis knit Speed",
+    "valor": "8.432"
+  }
+
+]
+
+
