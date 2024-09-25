@@ -37,3 +37,4 @@ fetch('masc.json')
 .catch(error => {
     console.error('Erro ao carregar o arquivo JSON:', error);
 });
+

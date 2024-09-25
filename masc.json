@@ -46,6 +46,22 @@
     "marca": "Versace",
     "nome-produto": "Chaveiro com logo gravado",
     "valor": "2.718"
+  },
+  {
+    "id": "7",
+    "categoria": "Camiseta",
+    "img-capa": "https://cdn-images.farfetch-contents.com/24/09/42/81/24094281_54120276_480.jpg",
+    "marca": "Burberry",
+    "nome-produto": "Camisa polo de algodão",
+    "valor": "3.510"
+  },
+  {
+    "id": "8",
+    "categoria": "Sapato",
+    "img-capa": "https://cdn-images.farfetch-contents.com/21/42/89/91/21428991_51374660_480.jpg",
+    "marca": "Versace",
+    "nome-produto": "Tênis Odisseia",
+    "valor": "10.228"
   }
 
 ]

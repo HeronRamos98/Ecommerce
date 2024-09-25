@@ -4,7 +4,7 @@
     "categoria": "Bolsa",
     "img-capa": "https://cdn-images.farfetch-contents.com/19/66/19/74/19661974_43935003_480.jpg",
     "marca": "Prada",
-    "nome-produto": "Bolsa de ombro Re-Edition 2005 em couro",
+    "nome-produto": "Bolsa de ombro em couro",
     "valor": "15.000"
   },
   {
@@ -44,7 +44,23 @@
     "categoria": "Sapato",
     "img-capa": "https://cdn-images.farfetch-contents.com/13/84/29/61/13842961_55004533_480.jpg",
     "marca": "Balenciaga",
-    "nome-produto": "Tênis knit Speed",
+    "nome-produto": "Tênis Knit Speed",
+    "valor": "8.432"
+  },
+  {
+    "id": "7",
+    "categoria": "Blusa",
+    "img-capa": "https://cdn-images.farfetch-contents.com/22/93/86/75/22938675_52980765_1000.jpg",
+    "marca": "Miu Miu",
+    "nome-produto": "Moletom com gola marinheiro",
+    "valor": "9.500"
+  },
+  {
+    "id": "8",
+    "categoria": "Vestido",
+    "img-capa": "https://cdn-images.farfetch-contents.com/24/13/67/85/24136785_54606375_480.jpg",
+    "marca": "Ferragamo",
+    "nome-produto": "Saia com cinto",
     "valor": "8.432"
   }
 
